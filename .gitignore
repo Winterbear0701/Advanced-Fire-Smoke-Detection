@@ -1,6 +1,6 @@
 # /model/*
 /smoke/*
 /data/*
-/static/
+# /static/
 
 /model/best.pt
