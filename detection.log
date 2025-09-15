@@ -1,0 +1,127 @@
+2025-09-15 14:20:53,470 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:20:53,543 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:20:53,548 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:20:53,556 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:20:53,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:27:22,229 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:27:22,286 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:27:22,289 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:27:22,298 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:27:22,299 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:28:54,802 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:28:54,869 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:28:54,872 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:28:54,882 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:28:54,882 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:33:18,677 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:33:18,754 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:33:18,758 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:33:18,766 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:33:18,766 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:36:31,678 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:36:31,754 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:36:31,758 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:36:31,767 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:36:31,768 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:36:46,940 - INFO - 127.0.0.1 - - [15/Sep/2025 14:36:46] "GET / HTTP/1.1" 200 -
+2025-09-15 14:39:32,939 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:39:33,011 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:39:33,015 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:39:33,026 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:39:33,026 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:39:39,630 - INFO - 127.0.0.1 - - [15/Sep/2025 14:39:39] "GET / HTTP/1.1" 200 -
+2025-09-15 14:39:39,704 - INFO - 127.0.0.1 - - [15/Sep/2025 14:39:39] "GET /static/js/advanced-features.js HTTP/1.1" 200 -
+2025-09-15 14:39:39,713 - INFO - 127.0.0.1 - - [15/Sep/2025 14:39:39] "GET /api/models HTTP/1.1" 200 -
+2025-09-15 14:39:39,719 - INFO - 127.0.0.1 - - [15/Sep/2025 14:39:39] "GET /api/history?limit=10 HTTP/1.1" 200 -
+2025-09-15 14:39:39,725 - INFO - 127.0.0.1 - - [15/Sep/2025 14:39:39] "[33mGET /ws HTTP/1.1[0m" 404 -
+2025-09-15 14:39:54,718 - INFO - Detection completed: 2 detections, 0.24s
+2025-09-15 14:39:54,719 - INFO - 127.0.0.1 - - [15/Sep/2025 14:39:54] "POST /detect HTTP/1.1" 200 -
+2025-09-15 14:39:55,100 - INFO - Detection completed: 2 detections, 0.12s
+2025-09-15 14:39:55,102 - INFO - 127.0.0.1 - - [15/Sep/2025 14:39:55] "POST /detect HTTP/1.1" 200 -
+2025-09-15 14:40:00,534 - INFO - Detection completed: 2 detections, 0.17s
+2025-09-15 14:40:00,534 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:00] "POST /detect HTTP/1.1" 200 -
+2025-09-15 14:40:18,183 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:18] "GET / HTTP/1.1" 200 -
+2025-09-15 14:40:18,215 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:18] "[36mGET /static/js/advanced-features.js HTTP/1.1[0m" 304 -
+2025-09-15 14:40:18,222 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:18] "GET /api/models HTTP/1.1" 200 -
+2025-09-15 14:40:18,232 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:18] "GET /api/history?limit=10 HTTP/1.1" 200 -
+2025-09-15 14:40:18,238 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:18] "[33mGET /ws HTTP/1.1[0m" 404 -
+2025-09-15 14:40:28,976 - INFO - Detection completed: 2 detections, 0.29s
+2025-09-15 14:40:28,977 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:28] "POST /detect HTTP/1.1" 200 -
+2025-09-15 14:40:29,640 - INFO - Detection completed: 2 detections, 0.44s
+2025-09-15 14:40:29,642 - INFO - 127.0.0.1 - - [15/Sep/2025 14:40:29] "POST /detect HTTP/1.1" 200 -
+2025-09-15 14:41:56,742 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:41:56,810 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:41:56,813 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:41:56,821 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:41:56,822 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:42:23,470 - INFO - 127.0.0.1 - - [15/Sep/2025 14:42:23] "GET / HTTP/1.1" 200 -
+2025-09-15 14:42:29,170 - INFO - 127.0.0.1 - - [15/Sep/2025 14:42:29] "GET / HTTP/1.1" 200 -
+2025-09-15 14:42:45,256 - INFO - Detection completed: 2 detections, 0.72s
+2025-09-15 14:42:45,259 - INFO - 127.0.0.1 - - [15/Sep/2025 14:42:45] "POST /detect HTTP/1.1" 200 -
+2025-09-15 14:44:17,084 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 14:44:17,149 - INFO - Loaded YOLOv8 Small model
+2025-09-15 14:44:17,152 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 14:44:17,159 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.15.235:8080
+2025-09-15 14:44:17,159 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 14:44:20,317 - INFO - 127.0.0.1 - - [15/Sep/2025 14:44:20] "GET / HTTP/1.1" 200 -
+2025-09-15 14:44:33,892 - INFO - Received POST request to /detect
+2025-09-15 14:44:33,895 - INFO - Files in request: ['file']
+2025-09-15 14:44:33,896 - INFO - Form data: {'model_type': 'yolov8n', 'confidence': '0.5', 'save_results': 'false'}
+2025-09-15 14:44:34,517 - INFO - Detection completed: 2 detections, 0.62s
+2025-09-15 14:44:34,518 - INFO - 127.0.0.1 - - [15/Sep/2025 14:44:34] "POST /detect HTTP/1.1" 200 -
+2025-09-15 15:28:53,652 - INFO - Loaded YOLOv8 Nano model
+2025-09-15 15:28:53,695 - INFO - Loaded YOLOv8 Small model
+2025-09-15 15:28:53,698 - WARNING - Failed to load custom model: ERROR  model/best.pt appears to be an Ultralytics YOLOv5 model originally trained with https://github.com/ultralytics/yolov5.
+This model is NOT forwards compatible with YOLOv8 at https://github.com/ultralytics/ultralytics.
+Recommend fixes are to train a new model using the latest 'ultralytics' package or to run a command with an official Ultralytics model, i.e. 'yolo predict model=yolo11n.pt'
+2025-09-15 15:28:53,706 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.137.32:8080
+2025-09-15 15:28:53,706 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-15 15:28:55,359 - INFO - 127.0.0.1 - - [15/Sep/2025 15:28:55] "GET / HTTP/1.1" 200 -
+2025-09-15 15:29:20,080 - INFO - Received POST request to /detect
+2025-09-15 15:29:20,082 - INFO - Files in request: ['file']
+2025-09-15 15:29:20,082 - INFO - Form data: {'model_type': 'best', 'confidence': '0.5', 'save_results': 'false'}
+2025-09-15 15:29:20,258 - INFO - Detection completed: 0 detections, 0.18s
+2025-09-15 15:29:20,258 - INFO - 127.0.0.1 - - [15/Sep/2025 15:29:20] "POST /detect HTTP/1.1" 200 -
